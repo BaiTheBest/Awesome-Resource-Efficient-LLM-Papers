@@ -5,8 +5,9 @@
       "paper_id": "2026.findings-acl.1136",
       "title": "TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination",
       "source_url": "https://aclanthology.org/2026.findings-acl.1136/",
-      "decision": "approved",
+      "decision": "included",
       "decided_at": "2026-11-14",
+      "merged_at": "2026-11-15T02:51:34Z",
       "upstream_pr": "https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers/pull/18"
     }
   ]
