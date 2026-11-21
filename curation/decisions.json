@@ -9,6 +9,38 @@
       "decided_at": "2026-11-14",
       "merged_at": "2026-11-15T02:51:34Z",
       "upstream_pr": "https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers/pull/18"
+    },
+    {
+      "paper_id": "openreview:LhsPiQYoe2",
+      "title": "DarwinLM: Evolutionary Structured Pruning of Large Language Models",
+      "source_url": "https://openreview.net/forum?id=LhsPiQYoe2",
+      "decision": "approved",
+      "decided_at": "2026-11-21",
+      "upstream_pr": "https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers/pull/19"
+    },
+    {
+      "paper_id": "openreview:pXd1ueLloD",
+      "title": "ADMM-Q: An Improved Hessian-based Weight Quantizer for Post-Training Quantization of Large Language Models",
+      "source_url": "https://openreview.net/forum?id=pXd1ueLloD",
+      "decision": "approved",
+      "decided_at": "2026-11-21",
+      "upstream_pr": "https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers/pull/19"
+    },
+    {
+      "paper_id": "2026.findings-acl.2098",
+      "title": "Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning",
+      "source_url": "https://aclanthology.org/2026.findings-acl.2098/",
+      "decision": "approved",
+      "decided_at": "2026-11-21",
+      "upstream_pr": "https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers/pull/19"
+    },
+    {
+      "paper_id": "openreview:2S5aOnd10q",
+      "title": "ExpertWeave: Efficiently Serving Expert-Specialized Fine-Tuned Adapters at Scale",
+      "source_url": "https://openreview.net/forum?id=2S5aOnd10q",
+      "decision": "approved",
+      "decided_at": "2026-11-21",
+      "upstream_pr": "https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers/pull/19"
     }
   ]
 }
